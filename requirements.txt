@@ -1,0 +1,7 @@
+streamlit
+pymongo
+pandas
+plotly
+folium 
+streamlit-folium
+streamlit-autorefresh
